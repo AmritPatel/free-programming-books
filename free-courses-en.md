@@ -4,6 +4,7 @@
 * [JS](#js)
 * [iOS](#ios)
 * [Oracle PL/SQL](#oracle-plsql)
+* [Python](#python)
 * [Ruby](#ruby)
 
 ###Databases
@@ -24,6 +25,9 @@
 
 ###Oracle PL/SQL
 * [Steven Feuerstein's PL/SQL Obsession - Videos and Presentations](http://www.toadworld.com/platforms/oracle/w/wiki/8243.plsql-obsession.aspx)
+
+###Python
+* [Quantitative Economics](http://quant-econ.net/_static/pdfs/quant-econ.pdf)
 
 ###Ruby
 * [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
